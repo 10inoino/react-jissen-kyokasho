@@ -1,3 +1,9 @@
+# 参考資料
+- [モダンJavaScriptの基本から始める React実践の教科書（最新ReactHooks対応）](https://www.amazon.co.jp/dp/B09BV2HGN3/)
+  - 参考にした書籍
+- [VSCode の Remote Container で React開発環境を構築する](https://qiita.com/takashiuesaka/items/4012fee49ee0e06db72b)
+  - 爆速で動くremote-container環境の参考記事
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
